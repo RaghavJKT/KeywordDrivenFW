@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-06T07:10:34Z" name="Default suite" finished-at="2022-07-06T07:11:02Z" duration-ms="28414">
+    <groups>
+    </groups>
+    <test started-at="2022-07-06T07:10:34Z" name="Default test" finished-at="2022-07-06T07:11:02Z" duration-ms="28414">
+      <class name="com.jktech.test.Login">
+        <test-method signature="login()[pri:0, instance:com.jktech.test.Login@44c73c26]" started-at="2022-07-06T12:40:34Z" name="login" finished-at="2022-07-06T12:41:02Z" duration-ms="28383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.jktech.test.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
